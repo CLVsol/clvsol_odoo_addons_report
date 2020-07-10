@@ -35,6 +35,7 @@
         # 'wizard/report_schedule_mass_edit_view.xml',
         # 'wizard/report_schedule_exec_view.xml',
         # 'wizard/report_batch_exec_view.xml',
+        'data/global_log_client.xml',
     ],
     'demo': [],
     'test': [],
